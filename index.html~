@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>johnabel.github.io by John Abel</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>john abel</h1>
+        <p>This is a personal website. Views and opinions are my own.</p>
+	<p>Quick links:</p>
+	<p><a href="Research.html">Research</a></p>
+	<p><a href="https://scholar.google.com/citations?user=B5qvOBcAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+	<p><a href="cv/abel-cv.pdf">My CV</a></p>
+	</p>
+
+      </header>
+      <section>
+        <p>Welcome! I am currently a PhD student in Systems Biology at Harvard University.
+        This page exists primarily to host details about my academic interests.</p>
+        <p class="view">In general, my research lies at the interface of systems biology, complex dynamical systems, and control theory. You can read about my <a href="Research.html">research interests and ongoing projects here</a>. Much of my research is focused on the mammalian circadian oscillator and the relationship between its biological function and its mathematical structure. Where relevant, links to the associated publications and/or GitHub repositories containing code or data are provided.</p>
+
+        <p>For a more formal introduction, here is <a href="cv/abel-cv.pdf">my CV</a>, or, you can <a href="https://github.com/JohnAbel">view my GitHub profile</a> for ongoing and archival projects.</p>
+        
+        <p>On a more personal note, I spend some of my non-working hours powerlifting (currently running a custom 5x5) and, recently, abstract painting.</p>
+        
+        <p>Here are some further links, which may be useful:
+        <ul>
+          <li><a href="http://thedoylegroup.org/">Frank Doyle group site</a></li>
+          <li><a href="https://sleep.med.harvard.edu/">Harvard Medical School Division of Sleep Medicine</a></li>
+        </ul>
+        </p>
+        <p>Contact: jhabel01 -at- gmail -dot- com</p>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub &mdash; Theme influenced by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
+
